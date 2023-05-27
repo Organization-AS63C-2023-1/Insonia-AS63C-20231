@@ -1,2 +1,2 @@
 # aula-repositorio-as63c
- Repositório para aula de desenvolvimento Ágil
+Este repositório foi criado na aula de desenvolvimento ágil
